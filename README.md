@@ -5,6 +5,8 @@ RebornCop Max 2 is a hardware-based Instant Recovery Software (similar to Deep F
 
 It is known to operate by intercepting the boot process in the form of an Option ROM.
 
+This ROM image was dumped from Winbond Electronics W27C512-45Z EEPROM.
+
 The manufacturer is [RebornCop](http://www.reborncop.com/), but since it is unknown whether the company is currently in operation, installation manuals and the software are unavailable.
 
 This dump file has been uploaded for research purposes to aid in understanding Option ROMs and the system boot process; you bear full responsibility for any consequences arising from disregarding it.
