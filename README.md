@@ -10,13 +10,13 @@ The manufacturer is [RebornCop](http://www.reborncop.com/), but since it is unkn
 This dump file has been uploaded for research purposes to aid in understanding Option ROMs and the system boot process; you bear full responsibility for any consequences arising from disregarding it.
 
 ## Images
-![PCI_Card_image_1](./Documents\img\image1.png)
+![PCI_Card_image_1](https://raw.githubusercontent.com/9CB797FF-9380-45F2-BB88-BB86CA0E32BF/RebornCop-Max-II-Option-ROM-Dump/main/Documents/img/image1.png)
 
-![PCI_Card_image_2](./Documents\img\image2.jpg)
+![PCI_Card_image_2](https://raw.githubusercontent.com/9CB797FF-9380-45F2-BB88-BB86CA0E32BF/RebornCop-Max-II-Option-ROM-Dump/main/Documents/img/image2.jpg)
 
-![PCI_Card_image_3](./Documents\img\image3.jpg)
+![PCI_Card_image_3](https://raw.githubusercontent.com/9CB797FF-9380-45F2-BB88-BB86CA0E32BF/RebornCop-Max-II-Option-ROM-Dump/main/Documents/img/image3.jpg)
 
-![PCI_Card_image_4](./Documents\img\image4.jpg)
+![PCI_Card_image_4](https://raw.githubusercontent.com/9CB797FF-9380-45F2-BB88-BB86CA0E32BF/RebornCop-Max-II-Option-ROM-Dump/main/Documents/img/image4.jpg)
 
 [Image Source 1](https://www.11st.co.kr/products/717121757), 
 [Image Source 2](https://cafe.naver.com/joonggonara/18338206)
